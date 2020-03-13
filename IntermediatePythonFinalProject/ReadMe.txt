@@ -2,7 +2,7 @@ Intermediate Python Final Project ReadMe
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Run the "scrape" script first - this will write web-scraped data to a csv file. The csv file will save to your working directory
-2. Run the "master" script - this will use the CSV file to run the user-interactive program described below
+2. Run the "Yinz_Hungry" script - this will use the CSV file to run the user-interactive program described below
 
 Program Description
 --------------------------------------------
